@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stoicounter/static/css/main.6e73f080.css",
+    "main.js": "/stoicounter/static/js/main.03f67a5e.js",
+    "index.html": "/stoicounter/index.html",
+    "main.6e73f080.css.map": "/stoicounter/static/css/main.6e73f080.css.map",
+    "main.03f67a5e.js.map": "/stoicounter/static/js/main.03f67a5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e73f080.css",
+    "static/js/main.03f67a5e.js"
+  ]
+}
